@@ -1,0 +1,10 @@
+.container {
+  margin: 30px auto;
+  width: 650px;
+  padding: 0 10px;
+}
+
+.panel {
+  border-radius: 5px;
+  background: rgba(white, 0.5);
+}

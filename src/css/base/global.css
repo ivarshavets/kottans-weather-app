@@ -1,0 +1,30 @@
+/* Global styles */
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+  font-size: 15px;
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+	line-height: 1.5;
+	color: var(--base-color);
+	background-color: goldenrod;
+}
+
+h1 {
+	color: var(--base-color);
+}
+
+.container {
+  margin: 30px auto;
+  width: 650px;
+  padding: 0 10px;
+}
+
+.panel {
+  border-radius: 5px;
+  background: rgba(white, 0.5);
+}
